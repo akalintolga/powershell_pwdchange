@@ -8,9 +8,9 @@ Write-Host komutuyla sıfırlamak istediğiniz kullanıcı adı ve şifreyi gird
 
 Eğer domainde girdiğiniz kullanıcı adı yoksa hata verecek ve fonksiyon tekrar çalışacaktır.
 
-Fonksiyonu kullanmak için indirdiğiniz dosyayı C:\Windows\System32\WindowsPowerShell\v1.0 altına atmanız gerekiyor. Eğer mevcutta profile dosyanız varsa kodları direk içine yapıştırabilirsiniz.
+Fonksiyonu kullanmak için indirdiğiniz dosyayı C:\Windows\System32\WindowsPowerShell\v1.0 altına atmanız gerekiyor. Eğer mevcutta profile dosyanız varsa kodları direkt içine yapıştırabilirsiniz.
 
-Sonrasında powershell yada powershell ise ile PwdChange komutuyla fonksiyonu kullanabilirsiniz.
+Sonrasında 'PowerShell' yada 'PowerShell ISE' ile PwdChange komutuyla fonksiyonu kullanabilirsiniz.
 
 
 
